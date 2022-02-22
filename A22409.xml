@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation prohibiting the publishing, dispersing and reading of a declaration or remonstrance, drawen by some committees of the Commons-house of the late dissolued Parliament, and intended to haue beene preferred by them to His Maiestie</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22409</idno>
+            <idno type="STC">STC 8827</idno>
+            <idno type="STC">ESTC S389</idno>
+            <idno type="EEBO-CITATION">22349666</idno>
+            <idno type="OCLC">ocm 22349666</idno>
+            <idno type="VID">25426</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25426)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1752:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation prohibiting the publishing, dispersing and reading of a declaration or remonstrance, drawen by some committees of the Commons-house of the late dissolued Parliament, and intended to haue beene preferred by them to His Maiestie</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXVI [1626]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at His Maiesties palace of Westminster the sixteenth day of Iune, in the second yeere of His Maiesties reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:25426:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> 
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">¶ A Proclamation prohibiting the publiſhing, diſperſing and rea<g ref="char:EOLhyphen"/>ding of a Declaration of Remonſtrance, drawen by ſome Committees of the <hi>Commons-Houſe of the late diſſolued Parliament, and intended to haue beene preferred by them to his</hi> MAIESTIE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Is moſt Excellent Maieſtie, taking knowledge of a Declaration of Remon<g ref="char:EOLhyphen"/>ſtrance,</hi> drawne and penned by ſome Committees of the Commons Houſe of the late diſſolued Parliament, and intended to haue beene preferred by them to His Maieſtie, wherein are contained many things, which tend much to the diſhonour of His now Maieſtie, and of His late Maieſtie, His Royall Father of euer bleſſed memorie, deceaſed; and whereby, through the ſides of a Peere of this Realme, they wound the honour of their Soueraignes, Whereof His Maieſtie being ſenſible, hath refuſed to admit the preſenting thereof vnto Him: And whereas He vnderſtandeth, that ſome of the mem<g ref="char:EOLhyphen"/>bers of that Houſe, ill affected to His ſeruice, to vent their owne paſſions againſt that Peere, at whom they ſpecially aymed, &amp; to prepoſſeſſe the world with an ill opinion of him, before his Cauſe were heard in a Judicial way, whereunto it was referred, haue beforehand willingly &amp; purpoſely publiſhed and ſcattered Copies of that intended Declaration or Remonſtrance, &amp; therby haue en<g ref="char:EOLhyphen"/>deauoured to detract much from the reputation of their Soueraigne, which in their allegiance to His Highneſſe ought to haue beene deere and tender vnto them. His Maieſtie therefore, for the re<g ref="char:EOLhyphen"/>preſſing of ſuch an inſufferable wrong vnto Himſelfe, which might otherwiſe be of ill conſequence, Doth ſtraitly charge and command, vpon paine of His indignation and high Diſpleaſure, all per<g ref="char:EOLhyphen"/>ſons, of what degree, quality, or condition ſoeuer, who haue, or at any time heereafter ſhall haue any Copie or Notes of the ſaid Declaration or Remonſtrance, intended to bee preferred vnto His Maieſtie, as aforeſaid, or ſhall come to the view thereof, forthwith, vpon publication of this Our Pleaſure, to burne the ſame, that the memorie thereof may be vtterly aboliſhed, and neuer giue occaſion to His Maieſtie, to renew the remembrance of that, which out of His Grace and Good<g ref="char:EOLhyphen"/>neſſe He would gladly forget: And if at any time heereafter any Copie or Notes of the ſaid Decla<g ref="char:EOLhyphen"/>ration or Remonſtrance ſhall be found, or knowne to be in the hands or cuſtodie of any of His ſub<g ref="char:EOLhyphen"/>iects, and not burnt, or cauſed to be burnt by them, as aforeſaid; His Maieſtie doth hereby declare, and publiſh His Royall Pleaſure and Reſolution to be, That He will proceed againſt all ſuch of<g ref="char:EOLhyphen"/>fenders and wilfull contemners of this His Royall Commandement, with that ſeueritie, which by the Law, or by His Prerogatiue Royall, He any wayes may iuſtly doe; and further, that His Maieſtie will eſteeme of all ſuch, as perſons ill affected both to His Perſon and gouernement.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at His Maieſties Palace of Weſtminſter <date>the ſixteenth day of Iune, in the ſecond yeere of His Maieſties Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by BONHAM NORTON and IOHN BILL, Printers to the Kings moſt Excellent MAIESTIE. M.DC.XXVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
